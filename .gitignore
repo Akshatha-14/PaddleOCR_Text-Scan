@@ -1,0 +1,32 @@
+# Python
+venv/
+env/
+__pycache__/
+*.pyc
+
+# PaddleOCR / ML Models
+*.pdparams
+*.pdopt
+*.pth
+*.onnx
+*.pkl
+
+# Django
+db.sqlite3
+
+# VS Code
+.vscode/
+
+# Data folders
+dataset/
+data/
+
+# Node
+node_modules/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
